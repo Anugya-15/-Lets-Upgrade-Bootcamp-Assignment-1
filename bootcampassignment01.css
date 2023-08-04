@@ -1,0 +1,33 @@
+/* Set background color for the entire page */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the div with a different background color, text color, and padding */
+  .page {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 20px;
+  }
+  
+  /* Apply a unique font of your choice to the headings (<h1> and <h2>) */
+  h1, h2 {
+    font-family: 'Georgia', sans-serif;
+  }
+  
+  /* Add a border around the <section> elements with rounded corners */
+  section {
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the list items (<li>) inside the skills section with a different color on hover */
+  .skills li:hover {
+    color: #ff0000; /* Change to the desired hover color */
+  }
+  
